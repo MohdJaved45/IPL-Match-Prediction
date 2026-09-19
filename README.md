@@ -29,12 +29,3 @@ A Streamlit-based web application designed to analyze IPL match statistics, view
    git clone [https://github.com/Mohdjawed45/ipl-match-prediction.git](https://github.com/Mohdjawed45/ipl-match-prediction.git)
    cd ipl-match-prediction
 
-
-   ├── assets/             # Background images and visual assets
-├── data/               # IPL Datasets
-├── images/             # Team & Player images
-├── model/              # Trained ML models & encoders (.pkl files)
-├── app.py              # Main Streamlit application entry point
-├── style.css           # Custom CSS stylesheet
-├── README.md           # Project documentation
-└── requirements.txt    # Project dependencies
